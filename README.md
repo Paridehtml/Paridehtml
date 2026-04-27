@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Paridehtml
-- 📫 find me here --> acconciamessa.paride@gmail.com
+👋 Hi, I’m @Paridehtml
+📫 find me here --> acconciamessa.paride@gmail.com
 
 <!---
 Paridehtml/Paridehtml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
